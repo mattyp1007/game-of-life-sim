@@ -3,6 +3,7 @@
 ## Description
 This Python program is based on the famous Conway's Game of Life:
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
 It takes an input of a text file containing a grid (any size) of O's (live cells) and .'s (dead cells). The game goes through 100 "generations" before outputting a file of the final generation.
 
 ## Instructions
